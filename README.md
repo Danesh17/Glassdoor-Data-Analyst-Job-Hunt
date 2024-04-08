@@ -1,0 +1,1 @@
+Analyzing Junior Data Analyst job postings on Glassdoor in New York to uncover trends in job titles, skills, qualifications, and salaries. Insights will aid both job seekers and employers in understanding the landscape of junior data analyst positions in the New York market.
